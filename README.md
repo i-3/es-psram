@@ -2,7 +2,7 @@
 
 Working reference project for **ESP32-S3 (8MB Octal PSRAM + 16MB Flash)** using pure ESP-IDF C SDK. 
 
-This repository serves as a baseline comparison for the Rust issue in [`rs-psram`](https://github.com/YOUR_USERNAME/rs-psram).
+This repository serves as a baseline comparison for the Rust issue in [`rs-psram`](https://github.com/i-3/rs-psram).
 
 ## Target Hardware
 * **Chip:** ESP32-S3 (revision v0.2)
