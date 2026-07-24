@@ -21,6 +21,14 @@ I (979) esp_psram: SPI SRAM memory test OK
 I (1063) esp_psram: Adding pool of 8192K of PSRAM memory to heap allocator
 I (1104) main_task: Calling app_main()
 I (1114) MAIN: ====================================
-I (1114) MAIN:    Проект es-psram успешно запущен!  
+I (1114) MAIN:     es-psram project launched successfully!  
 I (1124) MAIN: ====================================
-I (1134) MAIN: PSRAM обнаружена! Размер: 8 МБ (8388608 байт)
+I (1134) MAIN: PSRAM detected! Size: 8 MB (8388608 bytes)
+```
+
+## How to Run
+
+```bash
+chmod +x run.sh
+./run.sh
+```
